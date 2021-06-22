@@ -3,9 +3,11 @@
 <img src="https://raw.githubusercontent.com/hevant/hevant/master/assets/banner.png">
 
 ### Social Media
-<a href="https://www.linkedin.com/in/diego-bittencourt">
-  <img align="left" alt="Linkedin | Diego Bittencourt" width="20px" src="https://raw.githubusercontent.com/hevant/hevant/master/assets/linkedin.svg" />
-</a></br>
+  <a href="https://www.linkedin.com/in/diego-bittencourt" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href = "mailto:diegohevant@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/diegohevant/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitch.tv/kronokk" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+
 
 ### Sobre Mim
 Atuando principalmente com Programação & Marketing Digital. Experiência com Flutter e na criação de sites Wordpress e Seo (Search Engine Optimization).
