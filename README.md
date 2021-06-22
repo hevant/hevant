@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá, sou o [Diego Bittencourt!](https://www.linkedin.com/in/diego-bittencourt) 👋
+![Diego Bittencourt GitHub stats](https://github-readme-stats.vercel.app/api?username=hevant&theme=tokyonight&show_icons=true)
+
 
 <!--
 **hevant/hevant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
