@@ -1,5 +1,7 @@
 ### Olá, sou o [Diego Bittencourt!](https://www.linkedin.com/in/diego-bittencourt) 👋
 
+<img src="https://raw.githubusercontent.com/hevant/hevant/master/assets/banner.png">
+
 ### Social Media
 <a href="https://www.linkedin.com/in/diego-bittencourt">
   <img align="left" alt="Linkedin | Diego Bittencourt" width="20px" src="https://raw.githubusercontent.com/hevant/hevant/master/assets/linkedin.svg" />
