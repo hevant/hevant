@@ -14,7 +14,10 @@ Atuando principalmente com Programação & Marketing Digital. Experiência com F
 
 Experiência como empreendedor, o que me tornou um profissional com visão 360º sobre as necessidades e objetivos de um negócio. Procuro sempre trabalhar em equipe, cooperando com todos e ajudando da melhor maneira possível, com grande satisfação em ensinar e aprender.
 
-- 🌱 Ultimamente estudando Flutter [Flutter]
+<span style="display: inline_block">
+- 🌱 Ultimamente estudando Flutter
+  <img align="center" alt="Diego-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+</span><br>
 - 💬 Mensagem através do email ou linkedin 
 
 
