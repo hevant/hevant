@@ -5,7 +5,6 @@
 <img src="https://raw.githubusercontent.com/hevant/hevant/master/assets/banner.png">
 </span>
   
-![Snake animation](https://github.com/hevant/hevant/blob/output/github-contribution-grid-snake.svg)
   
 ### Social Media
   <a href="https://www.linkedin.com/in/diego-bittencourt" target="_blank"><img src="https://raw.githubusercontent.com/hevant/hevant/master/assets/Linkedin.svg" target="_blank"></a>
@@ -29,13 +28,14 @@ Experiência como empreendedor, o que me tornou um profissional com visão 360º
 
 
 ### Github Stats
-<div>
-  <a href="https://github.com/hevant">
+<span>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hevant&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</span>
+<span>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hevant&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
+</span>
   
-
+![Snake animation](https://github.com/hevant/hevant/blob/output/github-contribution-grid-snake.svg)
 <!--
 **hevant/hevant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
