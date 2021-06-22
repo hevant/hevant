@@ -22,7 +22,11 @@ Experiência como empreendedor, o que me tornou um profissional com visão 360º
 
 
 ### Github Stats
-![Diego Bittencourt GitHub stats](https://github-readme-stats.vercel.app/api?username=hevant&theme=tokyonight&show_icons=true)
+<div>
+  <a href="https://github.com/hevant">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hevant&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hevant&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
 
 
 <!--
