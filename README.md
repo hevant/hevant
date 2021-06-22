@@ -1,4 +1,11 @@
 ### Olá, sou o [Diego Bittencourt!](https://www.linkedin.com/in/diego-bittencourt) 👋
+
+### Social Media
+<a href="https://www.linkedin.com/in/diego-bittencourt">
+  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a></br>
+
+### Github Stats
 ![Diego Bittencourt GitHub stats](https://github-readme-stats.vercel.app/api?username=hevant&theme=tokyonight&show_icons=true)
 
 
