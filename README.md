@@ -28,7 +28,7 @@ Experiência como empreendedor, o que me tornou um profissional com visão 360º
 
 
 ### Github Stats
-<span style="display: inline_block">
+<span style="display: flex;">
   <a href="https://github.com/hevant">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hevant&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hevant&layout=compact&langs_count=16&theme=tokyonight"/>
@@ -36,6 +36,7 @@ Experiência como empreendedor, o que me tornou um profissional com visão 360º
 </span>
   
 ![Snake animation](https://github.com/hevant/hevant/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **hevant/hevant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
