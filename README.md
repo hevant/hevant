@@ -2,7 +2,7 @@
 
 ### Social Media
 <a href="https://www.linkedin.com/in/diego-bittencourt">
-  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+  <img align="left" alt="Linkedin | Diego Bittencourt" width="20px" src="https://raw.githubusercontent.com/hevant/hevant/master/assets/linkedin.svg" />
 </a></br>
 
 ### Github Stats
