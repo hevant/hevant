@@ -1,4 +1,4 @@
-### Olá, Eu sou o [Diego Bittencourt!](https://www.linkedin.com/in/diego-bittencourt)  👋
+### Olá, Eu sou o [Diego Bittencourt!](https://www.linkedin.com/in/diego-bittencourt) 👋
 
 <span>
   <a href="https://github.com/hevant">
