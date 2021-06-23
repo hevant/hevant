@@ -24,7 +24,7 @@ Experiência como empreendedor, o que me tornou um profissional com visão 360º
    <img align="center" alt="Diego-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
    </a>
 </span></br>
-- 💬 Mensagem através do email ou linkedin. 
+- 💬 Mensagem através do email ou linkedin
 
 
 ### Github Stats
